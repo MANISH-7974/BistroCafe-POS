@@ -54,10 +54,6 @@ The project is designed for academic demonstration and small single-process depl
 ├── .env.example                   # Placeholder environment configuration
 ├── static/
 │   └── bistrocafe-logo.png        # Shared project logo
-└── docs/
-    ├── SDMS_Submission_Content.md
-    ├── BistroCafe_SDMS_Submission_Content.docx
-    └── screenshots/               # Five SDMS-ready screenshots
 ```
 
 ## Run locally on Windows
